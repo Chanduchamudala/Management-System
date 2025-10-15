@@ -1,0 +1,10 @@
+{
+    "sample.txt": {
+        "hash": "20c8bf423e90c5c5f6a805cf6a8ec652e219015cefa4dbd459542ec52251cbc0",
+        "algorithm": "sha256"
+    },
+    "BLOCKCHAIN_TECHNOLOGY_QP[2].pdf": {
+        "hash": "0871e8d3562db04cac21a24c8516d5d5b7e97ca0ee9a1d90e8ff793dec276bf2",
+        "algorithm": "sha256"
+    }
+}
